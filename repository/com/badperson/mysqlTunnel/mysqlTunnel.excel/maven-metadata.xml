@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.badperson.mysqlTunnel</groupId>
+  <artifactId>mysqlTunnel.excel</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180124035934</lastUpdated>
+  </versioning>
+</metadata>
